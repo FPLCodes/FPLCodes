@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FPLCodes
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning VueJS, MongoDB, firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sahabferdous1@gmail.com
 
