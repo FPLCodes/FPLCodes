@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FPLCodes
-- 👀 I’m interested in web development and solving coding problems
-- 🌱 I’m currently learning VueJS, MongoDB, NodeJS & Firebase
-- 💞️ I’m currently not looking to collaborate on anything
+- 👀 I’m interested in web & app development
+- 🌱 I’m currently learning React Native, NodeJS & Firebase
 - 📫 How to reach me: sahabferdous1@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FPLCodes&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
