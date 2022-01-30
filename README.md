@@ -1,7 +1,7 @@
 ## 🙋‍♂️ About me
 - 👋 Hi, I’m Sahab Ul Ferdous @FPLCodes
-- 👀 I’m interested in web & app development
-- 🌱 I’m currently learning React Native, NodeJS & Firebase
+- 👀 I’m interested in web/app development
+- 📖 I’m currently learning React Native, NodeJS & Firebase
 
 ## ⭐ My latest metrics
 ![Metrics](https://metrics.lecoq.io/FPLCodes?template=classic&achievements=1&lines=1&introduction=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FKuala_Lumpur)
