@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FPLCodes
+- 👋 Hi, I’m Sahab Ul Ferdous @FPLCodes
 - 👀 I’m interested in web & app development
 - 🌱 I’m currently learning React Native, NodeJS & Firebase
 - 📫 How to reach me: sahabferdous1@gmail.com, Discord: FPLogistic#7999
