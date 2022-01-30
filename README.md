@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Sahab Ul Ferdous @FPLCodes
+![Metrics](https://metrics.lecoq.io/FPLCodes?template=classic&achievements=1&lines=1&introduction=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FKuala_Lumpur)
+
 - 👀 I’m interested in web & app development
 - 🌱 I’m currently learning React Native, NodeJS & Firebase
 - 📫 How to reach me: sahabferdous1@gmail.com, Discord: FPLogistic#7999
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FPLCodes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FPLCodes&lcolor=741b47&color=a51068)
+
+![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FPLCodes&lcolor=3f52ad&color=4280f1)
 
 <!---
 FPLCodes/FPLCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
