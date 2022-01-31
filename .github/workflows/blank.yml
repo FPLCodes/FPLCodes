@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ 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 }}
+          token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
           user: FPLCodes
