@@ -30,7 +30,7 @@
 - Instagram: @s4h4b_
 <br />
 
-![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FPLCodes&lcolor=3f52ad&color=4280f1)
+![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FPLCodes&lcolor=303030&color=4295f2)
 
 <!---
 FPLCodes/FPLCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
