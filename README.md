@@ -3,7 +3,7 @@
 ## 🙋‍♂️ About me
 - 👋 Hi, I’m Sahab Ul Ferdous @FPLCodes
 - 👀 I’m interested in web/app development
-- 📖 I’m currently learning Full-stack web dev (NodeJS, React, Firebase etc...)
+- 📖 I’m currently learning React, VueJS, MongoDB, & Firebase
 - 🔥 I enjoy competitive programming occasionally (Love using C++ for that)
 
 ## ⭐ My latest metrics
