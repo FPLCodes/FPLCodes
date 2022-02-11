@@ -3,10 +3,15 @@
 ## 🙋‍♂️ About me
 - 👋 Hi, I’m Sahab Ul Ferdous @FPLCodes
 - 👀 I’m interested in web/app development
-- 📖 I’m currently learning React Native, NodeJS & Firebase
+- 📖 I’m currently learning Full-stack web dev (NodeJS, React, Firebase etc...)
+- 🔥 I enjoy competitive programming occasionally (Love using C++ for that)
 
 ## ⭐ My latest metrics
-![Metrics](https://metrics.lecoq.io/FPLCodes?template=classic&languages=1&lines=1&achievements=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKuala_Lumpur)
+
+![](https://github.com/FPLCodes/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/FPLCodes/github-stats/blob/master/generated/languages.svg)
+
+<sub>Credits to: https://github.com/jstrieb/github-stats</sub>
 
 ## 🌐 Languages & technologies
 
