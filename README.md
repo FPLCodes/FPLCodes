@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Sahab Ul Ferdous @FPLCodes
 - 👀 I’m interested in web/app development
 - 📖 I’m currently learning React, VueJS, MongoDB, & Firebase
-- 🔥 I enjoy competitive programming occasionally (Love using C++ for that)
+- 🔥 I also enjoy competitive programming (with C++)
 
 ## ⭐ My latest metrics
 
