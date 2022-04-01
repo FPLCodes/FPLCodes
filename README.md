@@ -5,6 +5,7 @@
 - 👀 I’m interested in web/app development
 - 📖 I’m currently learning React, VueJS, Firebase, & C++
 - 🔥 I also enjoy competitive programming
+- 🏫 I'm currently doing A-levels
 
 ## ⭐ My latest metrics
 
