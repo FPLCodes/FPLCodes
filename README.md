@@ -5,7 +5,7 @@
 - 👀 I’m interested in web/app development
 - 📖 I’m currently learning React, VueJS, Firebase, & C++
 - 🔥 I also enjoy competitive programming
-- 🏫 Recently finished A-levels
+- ⭐ Check out my gaming YouTube channel: https://www.youtube.com/channel/UCc7O8GMeaHOVczWNWpqdMDQ
 
 ## ⭐ My latest metrics
 
