@@ -3,9 +3,9 @@
 ## 🙋‍♂️ About me
 - 👋 Hi, I’m Sahab Ul Ferdous @FPLCodes
 - 👀 I’m interested in web/app development
-- 📖 I’m currently learning React, VueJS, Firebase, & C++
 - 🔥 I also enjoy competitive programming
-- ⭐ Check out my gaming YouTube channel: https://www.youtube.com/c/FPLogistic
+- ⭐ My gaming YouTube channel: https://www.youtube.com/c/FPLogistic
+- 🌐 My personal portfolio: https://sahabferdous.vercel.app
 
 ## ⭐ My latest metrics
 
