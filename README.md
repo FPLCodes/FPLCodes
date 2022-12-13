@@ -14,7 +14,7 @@
 
 <sub>Credits to: https://github.com/jstrieb/github-stats</sub>
 
-## 🌐 Languages & technologies
+## 🌐 Best languages & technologies
 
 <div>
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px" />
@@ -34,11 +34,3 @@
 - Email: sahabferdous1@gmail.com
 - Discord: FPLogistic#7999
 - Instagram: @s4h4b_
-<br />
-
-![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FPLCodes&lcolor=303030&color=4295f2)
-
-<!---
-FPLCodes/FPLCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
