@@ -4,8 +4,8 @@
 - 👋 Hi, I’m Sahab Ul Ferdous @FPLCodes
 - 👀 I’m interested in web/app development
 - 🔥 I also enjoy competitive programming
+- 🎓 First year CS student at Monash University
 - 👨‍💻 My personal portfolio: https://sahabferdous.vercel.app
-- 🎓 First year student at Monash University
 
 ## ⭐ My latest metrics
 
