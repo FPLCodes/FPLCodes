@@ -5,7 +5,7 @@
 - 👀 I’m interested in web/app development
 - 🔥 I also enjoy competitive programming
 - 👨‍💻 My personal portfolio: https://sahabferdous.vercel.app
-- 🎓 First year student at Monash University Malaysia
+- 🎓 First year student at Monash University
 
 ## ⭐ My latest metrics
 
