@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Sahab Ul Ferdous @FPLCodes
 - 👀 I’m interested in web/app development
 - 🔥 I also enjoy competitive programming
-- 🎓 Second year CS student at Monash University
+- 🎓 Second-year CS student at Monash University
 - 👨‍💻 My personal portfolio: https://sahabferdous.vercel.app
 
 ## ⭐ My latest metrics
@@ -29,6 +29,7 @@
   <img src="https://www.svgrepo.com/show/354528/vue.svg" height="50px" />
   <img src="https://www.svgrepo.com/show/354259/react.svg" height="50px" />
   <img src="https://www.svgrepo.com/show/374109/svelte.svg" height="50px" />
+  <img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" height="50px" />
 </div> 
 
 ## 📬 How to reach me
