@@ -30,6 +30,7 @@
   <img src="https://www.svgrepo.com/show/354259/react.svg" height="50px" />
   <img src="https://www.svgrepo.com/show/374109/svelte.svg" height="50px" />
   <img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" height="50px" />
+  <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" height="50px" />
 </div> 
 
 ## 📬 How to reach me
