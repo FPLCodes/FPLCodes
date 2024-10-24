@@ -36,4 +36,3 @@
 ## 📬 How to reach me
 - Email: sahabferdous1@gmail.com
 - Discord: FPLogistic#7999
-- Instagram: @s4h4b_
